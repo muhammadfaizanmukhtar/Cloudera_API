@@ -24,3 +24,6 @@ curl -u username:password -X POST "http://{CMIPADDRESS}:7180/api/v54/clusters/{C
 **Collect Host Statistics Globally Command:**
 
 curl -u username:password -X POST "http://{CMIPADDRESS}:7180/api/v54/cm/commands/collectDiagnosticData" -H "accept: application/json" -H "Content-Type: application/json" -d "{ \"collectCMDBDump\": true, \"bundleSizeBytes\": 10240, \"startTime\": \"2025-03-10T12:00:00Z\", \"endTime\": \"2025-03-11T12:00:00Z\", \"clusterName\": \"{ClusterName}\", \"enableMonitorMetricsCollection\": true, \"phoneHome\": true}"
+
+**Official documentation:**
+https://archive.cloudera.com/cm7/7.11.3.0/generic/jar/cm_api/apidocs/resource_ClustersResource.html
