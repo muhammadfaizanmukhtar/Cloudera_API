@@ -1,5 +1,5 @@
-# Cloudera_API
-Basic API't to access the cluster via API's
+**Cloudera_API's**
+Cloudera provides a comprehensive suite of APIs that enable users to interact programmatically with its data management platform. These APIs allow for automation, integration, and customization of various operations within the Cloudera ecosystem, which is used for big data management, analytics, and machine learning. Below is a summary of the key Cloudera APIs:
 
 **Cluster details:**
 
