@@ -2,6 +2,8 @@
 
 Cloudera provides a comprehensive suite of APIs that enable users to interact programmatically with its data management platform. These APIs allow for automation, integration, and customization of various operations within the Cloudera ecosystem, which is used for big data management, analytics, and machine learning. Below is a summary of the key Cloudera APIs:
 
+The username and password in all API's will be cloudera manager username and password.
+
 **Cluster details:**
 
 curl -u username:password -X GET "http://{CMIPADDRESS}:7180/api/v54/clusters?clusterType=ANY&view=SUMMARY" -H "accept: application/json"
