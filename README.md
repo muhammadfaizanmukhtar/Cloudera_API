@@ -44,3 +44,8 @@ https://archive.cloudera.com/cm7/7.11.3.0/generic/jar/cm_api/apidocs/resource_Cl
 **Big Data Analytics:** Leverages the power of big data tools (e.g., Spark, Hive) through APIs.
 
 **Documentation & Support:** Extensive documentation and professional support from Cloudera.
+
+**Cons:**
+
+**Security Concerns:** 
+APIs that interact with sensitive data can introduce security risks if not properly managed. Misconfigured API access or lack of encryption could lead to vulnerabilities in the system.
