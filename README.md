@@ -4,6 +4,7 @@ Cloudera provides a comprehensive suite of APIs that enable users to interact pr
 
 The username and password in all API's will be cloudera manager username and password.
 
+
 **Cluster details:**
 
 curl -u username:password -X GET "http://{CMIPADDRESS}:7180/api/v54/clusters?clusterType=ANY&view=SUMMARY" -H "accept: application/json"
