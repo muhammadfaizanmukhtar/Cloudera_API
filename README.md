@@ -46,6 +46,7 @@ https://archive.cloudera.com/cm7/7.11.3.0/generic/jar/cm_api/apidocs/resource_Cl
 
 **Documentation & Support:** Extensive documentation and professional support from Cloudera.
 
+
 **Cons:**
 
 **Security Concerns:** 
